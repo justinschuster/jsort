@@ -1,0 +1,6 @@
+# File Types
+*.pyc
+*.swp
+
+# Virtual Enviroment
+jenv/
